@@ -4,7 +4,7 @@
 
 Nós fomos contratados como cientistas de dados de uma empresa imobiliária. Nossa principal função é dar suporte as demandas do time de Machine Learning e do time de Desenvolvimento dessa empresa.
 
-Para atendermos essas demandas, foi disponibilizado um board no [Trello](https://trello.com/b/YOzNZlIl/projeto-preco-de-aluguel), com as etapas e tarefas do projeto que devemos realizar. 
+Para atendermos essas demandas, foi disponibilizado um board no [Trello](https://trello.com/b/YOzNZlIl/projeto-preco-de-aluguel){target="_blank"}, com as etapas e tarefas do projeto que devemos realizar. 
 
 ## Base de Dados:
 
