@@ -1,4 +1,4 @@
-# Case de Preços de Alugueis na Cidade do Rio de Janiro - RJ 💳
+# Case de Preços de Alugueis na Cidade do Rio de Janeiro - RJ 💳
 
 ## Contexto:
 
